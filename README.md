@@ -33,7 +33,7 @@ glib-compile-schemas schemas
 journalctl /usr/bin/gnome-shell -f -o cat
 ```
 
-Полезные маниуалы:
+Полезные мануалы:
 
 - [Gnome Shell Extensions. Tutorial](https://wiki.gnome.org/Projects/GnomeShell/Extensions/StepByStepTutorial)
 - [Gnome Shell Extensions](https://wiki.gnome.org/Projects/GnomeShell/Extensions)

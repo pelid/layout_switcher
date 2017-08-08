@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema path="/org/gnome/shell/extensions/layout-switcher/" id="org.gnome.shell.extensions.layout-switcher">
+    <key name="use-num-keys" type="b">
+      <default>true</default>
+      <summary>Use number keys?</summary>
+      <description>
+        Do you want to use number?
+      </description>
+    </key>
+    <key name="switch-to-first-layout" type="as">
+      <default><![CDATA[['Caps_lock']]]></default>
+      <summary>Keybinding to switch to first layout</summary>
+      <description>
+        Keybinding to switch to first layout
+      </description>
+    </key>
+    <key name="switch-to-second-layout" type="as">
+      <default><![CDATA[['<Shift>Caps_lock']]]></default>
+      <summary>Keybinding to switch to second layout</summary>
+      <description>
+        Keybinding to switch to second layout
+      </description>
+    </key>
+    <key name="show-notification" type="b">
+      <default>true</default>
+      <summary>Show notification on switch?</summary>
+      <description>
+        Do you want to see notification on layout switch?
+      </description>
+    </key>
+  </schema>
+</schemalist>

@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.24.0"],
+    "name": "layout-switcher",
+    "settings-schema": "org.gnome.shell.extensions.layout-switcher",
+    "description": "Switch layout on custom keyboard shortcuts",
+    "uuid": "layout_switcher@pelid80.gmail.com"
+}

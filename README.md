@@ -7,7 +7,7 @@ cd ~/.local/share/gnome-shell/extensions/
 git clone <repo url> layout_switcher@pelid80.gmail.com # destination folder name is matter
 ```
 
-Перезапускаем оболочку чтобы Gnome Shell заметил новое расширение: <kbd>Alt</kbd>+<kbd>F2</kbd>, вводим команду `r` и наживаем <kbd>Enter</kbd>.
+Перезапускаем оболочку, чтобы Gnome Shell заметил новое расширение: <kbd>Alt</kbd>+<kbd>F2</kbd>, вводим команду `r` и нажимаем <kbd>Enter</kbd>.
 
 Активируем новое JS расширение. Для этого запускаем gnome-tweak-tool, активируем расширение на вкладке Extensions.
 
